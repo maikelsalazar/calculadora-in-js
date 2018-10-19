@@ -1,0 +1,21 @@
+.calculator {
+    margin:0 auto;
+    display: block;
+    width: 204px;
+    border: 2px solid #CCC;
+}
+
+.calculator .display {
+    width: 200px;
+    height: 50px;
+    border: 1px solid #CCC;
+    padding: 10px 5px;
+    font-size: 18px;
+    text-align: right;
+    margin: 0;
+}
+
+.calculator .key {
+    width: 50px;
+    height: 50px;
+}
